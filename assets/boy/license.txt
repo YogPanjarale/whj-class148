@@ -1,0 +1,11 @@
+Model Information:
+* title:	AVATAR-FULLBODYFRAG
+* source:	https://sketchfab.com/3d-models/avatar-fullbodyfrag-3db04a7f7f08461c8e45711ad0f7a8e0
+* author:	RamonFraga (https://sketchfab.com/RamonFragas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AVATAR-FULLBODYFRAG" (https://sketchfab.com/3d-models/avatar-fullbodyfrag-3db04a7f7f08461c8e45711ad0f7a8e0) by RamonFraga (https://sketchfab.com/RamonFragas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
